@@ -1,6 +1,4 @@
 # dotfiles
-
-Assalamu Alaikum Wa Rahmatullah. <br />
 Welcome to my dotfiles repo.
 
 
