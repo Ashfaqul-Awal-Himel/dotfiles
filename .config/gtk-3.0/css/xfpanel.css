@@ -1,0 +1,32 @@
+#whiskermenu-window {
+background: url("/home/himel/start-menu.png");
+background-repeat: no-repeat;
+/*background-attachment: fixed;*/
+background-size: 100% 100%;
+color: #111111;
+}
+#whiskermenu-window button {
+background-color: transparent;
+color: #ccc;
+}
+window.whiskermenu#whiskermenu-window .view {
+	background-color: mix(transparent, @theme_bg_color, 0.5);
+}
+
+window.whiskermenu#whiskermenu-window .view.cell {
+	background-color: transparent;
+}
+
+window.whiskermenu#whiskermenu-window .launchers:hover {
+	border: 2px dotted @theme_selected_bg_color;
+	border-radius: 5px;
+}
+
+window.whiskermenu#XfcePanelWindowWrapper,
+window#XfcePanelWindowWrapper decoration {
+	background-color: mix(transparent, @theme_bg_color, 0.75);
+}
+
+.xfce4-panel * {
+	color: #FFFFFF;
+}

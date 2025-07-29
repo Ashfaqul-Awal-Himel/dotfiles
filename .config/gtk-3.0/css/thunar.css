@@ -1,0 +1,35 @@
+.thunar,
+.thunar menubar,
+.thunar toolbar {
+    background: rgba(128,128,128,0.1);
+    border: 0;
+}
+
+
+.thunar treeview, scrolledwindow {
+    background: rgba(128,128,128,0.1);
+    border: 0;
+}
+
+/*
+.thunar .standard-view .view {
+    background-image: -gtk-scaled(url("reflection.png"), url("reflection.png"));
+    background: rgba(128,128,128,0.1);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}*/
+
+.thunar .standard-view .view * {
+    background-image: url("reflection.png");
+}
+
+
+
+.thunar statusbar {
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 15px;
+    background: rgba(128,128,128,0.10);
+}
+

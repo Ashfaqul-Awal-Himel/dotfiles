@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(1.85185,0,0,2.5,0,0)"
+font-family="SF Pro Display" font-size="12" font-weight="400" font-style="normal" 
+>
+<image x="0" y="0" width="27" height="20" preserveAspectRatio="none" image-rendering="optimizeQuality" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAUCAMAAABLXLayAAABCGlDQ1BDdXN0b20AABiVY2BgPMEABCwODAy5eSVFQe5OChGRUQoMSCAxubiAAS/4do2BEURf1g0sYePArxYDcBUBLQTSf4BYJB3MZhQAsZMgbBUQu7ykoATItgCxkwuKQGwfIFspOSMxBcgGuU+nKCTIGcieA2QLpCOxk5DYKanFyUD2GiBbBuHP/PkMDBZfGBiYJyLEkqYxMGxvZ2CQuI0QU1nIwMDfysCw7QpC7HMg2O+MYmdyc0qToX4CifCk5oUGA2k2kF0Mfgz6DI4MDMVpxkYQFTwODAysd////6zBwMA+iYHh74T//38v+v//7yKgO24zMBxoKEgsSoSHEpOxEQ7zQUAGALQFSQ/jOtRwAAAApVBMVEV7e3t3d3f8/Pz09PR1dXVydIBwcHBra2v5+fnw8PBwcn5lZWX4+Pjp6eleXl719fXg4OBVVVXx8fHT09MAAADa2toAAAABAwPb29wKCg8HCQvb3d4hITAQEBTc3N87P1BOUWAaGiHe3uNaYXQkJi3j4+l4fJRcX3EuLzbn6O6TlrA6PEHq7PEdHR7+/v78/PxTVmaZmqTp6eni4uLc3NzX19cAAAAEeL5cAAAAL3RSTlPHxMuSwd2+uciL27XEhLDAfKy8dIKbLoOcMIaeNYqiPMKPpkSSqErKlapOlJWvqTEj47sAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTUtMTAtMDRUMTE6MTI6NDYtMDU6MDADWcAvAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE1LTEwLTA0VDExOjEyOjQ2LTA1OjAwcgR4kwAAAKtJREFUKJGNz8cSgkAQBNA2YEYxZzGCmRb0/39NmWHl4lb5DnPorpmtBSIrFIolG5T/6hxmHNNVvh3NOzRdtVYXDbP1iKhJHc2WK/KtiJq4aHc8kXcxNfHQ7fXFp0svSqdJH4PhSDCOqTOhJiOMJ1ORpjqf1GSK2XwhmCTpzc98UZMFlitf8Jkh15r42Gx3gq8Mdwb2h0CE5u9hYHy7H3A8nW1wuVrhZoe73RtNwEOTJ7BDJgAAAABJRU5ErkJggg==" />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SF Pro Display" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

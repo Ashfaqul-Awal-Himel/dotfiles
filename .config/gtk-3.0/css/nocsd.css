@@ -1,0 +1,10 @@
+decoration {
+	border-radius: 6px 6px 0 0;
+	border-width: 0px;
+	box-shadow: none;
+	margin: 0;
+}
+
+.window-frame:backdrop {
+	box-shadow: none;
+}

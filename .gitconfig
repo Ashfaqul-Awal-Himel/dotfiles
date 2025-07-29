@@ -1,0 +1,10 @@
+[user]
+	email = 63048839+Ashfaqul-Awal-Himel@users.noreply.github.com
+	name = Ashfaqul_Awal_Himel
+[credential]
+	helper = cache
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
